@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paridhik2001
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning Java
+- 📫 How to reach me - By my email id - paridhik2001@gmail.com
